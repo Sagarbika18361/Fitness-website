@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Fitness-website/static/css/main.baebea37.chunk.css",
+    "main.js": "/Fitness-website/static/js/main.97c99b26.chunk.js",
+    "main.js.map": "/Fitness-website/static/js/main.97c99b26.chunk.js.map",
+    "runtime-main.js": "/Fitness-website/static/js/runtime-main.4b7232b7.js",
+    "runtime-main.js.map": "/Fitness-website/static/js/runtime-main.4b7232b7.js.map",
+    "static/css/2.383c0125.chunk.css": "/Fitness-website/static/css/2.383c0125.chunk.css",
+    "static/js/2.74c309ba.chunk.js": "/Fitness-website/static/js/2.74c309ba.chunk.js",
+    "static/js/2.74c309ba.chunk.js.map": "/Fitness-website/static/js/2.74c309ba.chunk.js.map",
+    "static/js/3.e4a0f487.chunk.js": "/Fitness-website/static/js/3.e4a0f487.chunk.js",
+    "static/js/3.e4a0f487.chunk.js.map": "/Fitness-website/static/js/3.e4a0f487.chunk.js.map",
+    "index.html": "/Fitness-website/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/Fitness-website/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.baebea37.chunk.css.map": "/Fitness-website/static/css/main.baebea37.chunk.css.map",
+    "static/js/2.74c309ba.chunk.js.LICENSE.txt": "/Fitness-website/static/js/2.74c309ba.chunk.js.LICENSE.txt",
+    "static/media/heropage.33a68e29.png": "/Fitness-website/static/media/heropage.33a68e29.png",
+    "static/media/section2pic.c5f811d8.png": "/Fitness-website/static/media/section2pic.c5f811d8.png",
+    "static/media/section4img.6d44a612.png": "/Fitness-website/static/media/section4img.6d44a612.png",
+    "static/media/section5.0bfcea4e.png": "/Fitness-website/static/media/section5.0bfcea4e.png",
+    "static/media/sectionIcon2.63d66b70.png": "/Fitness-website/static/media/sectionIcon2.63d66b70.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b7232b7.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.74c309ba.chunk.js",
+    "static/css/main.baebea37.chunk.css",
+    "static/js/main.97c99b26.chunk.js"
+  ]
+}
